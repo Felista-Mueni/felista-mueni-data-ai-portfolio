@@ -103,6 +103,26 @@ Structured critical appraisal covering study design, participant selection, expo
 ### Research Paper Library Organization
 Client project involving organization, categorization, standardized naming and summarization of an approximately 40-paper research library.
 
+
+
+## 📊 Portfolio Evidence Scorecard
+
+**Technical evidence:** 25+ executable notebooks  
+**Business analytics:** RetailMart + ABB IMEA  
+**Machine learning:** classification, regression, clustering, explainability  
+**Forecasting:** ARIMA + feature-based forecasting  
+**Quant finance:** risk, stochastic modelling, econometrics and portfolio analysis  
+**AI services:** AI evaluation, NLP and annotation quality  
+**Research:** systematic review, PRISMA workflow and CASP appraisal  
+**BI:** Power BI and Tableau evidence frameworks  
+**Technical communication:** academic/technical editing and teaching
+
+### Evidence navigation
+- [Portfolio Scorecard](PORTFOLIO_SCORECARD.md)
+- [Skills-to-Evidence Map](SKILLS_TO_EVIDENCE.md)
+- [Project Catalog](PROJECT_CATALOG.md)
+- [Evidence Matrix](EVIDENCE_MATRIX.md)
+
 ## 🔎 Evidence Map
 
 ### Professional & Business Analytics
