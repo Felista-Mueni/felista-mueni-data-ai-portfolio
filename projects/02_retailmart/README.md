@@ -17,6 +17,15 @@ Data preparation → EDA → KPI calculation → segmentation → visualization 
 ## Demonstrates
 Revenue analysis, profitability analysis, customer analytics, visualization and BI-ready data preparation.
 
+## Visual evidence
+![Executive KPI summary](../../assets/retailmart_kpi_summary.svg)
+
+![Revenue by region](../../assets/retailmart_revenue_by_region.svg)
+
+![Monthly performance](../../assets/retailmart_monthly_performance.svg)
+
+![Profit by category](../../assets/retailmart_profit_by_category.svg)
+
 [Notebook](../../notebooks/01_retailmart_eda_dashboard.ipynb)
 
 > RetailMart is synthetic and does not represent a real client.
