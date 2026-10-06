@@ -2,8 +2,16 @@
 
 **Professional/project work — sanitized case study.**
 
-Analysed an IMEA growth initiative targeting growth from approximately USD 47M to USD 100M by 2026. Work covered historical orders, pipeline analysis, country clustering, forecasting experiments using ARIMA, XGBoost and Random Forest, and Power BI dashboard design.
+## Business context
+Analysed an IMEA growth initiative targeting growth from approximately **USD 47M to USD 100M by 2026**.
 
-**Demonstrates:** business analytics, forecasting, segmentation, scenario analysis and executive reporting.
+## Analytical workflow
+Historical orders → pipeline analysis → country clustering → ARIMA/XGBoost/Random Forest forecasting experiments → scenario analysis → Power BI dashboard design.
 
-> Confidential client data is not included.
+## Demonstrates
+Business analytics, forecasting, segmentation, scenario analysis, KPI design and executive reporting.
+
+## Outcome orientation
+The analysis was designed to compare historical performance and pipeline coverage with the strategic target and identify the remaining growth gap.
+
+> Confidential client data, proprietary dashboards and internal records are not published.
