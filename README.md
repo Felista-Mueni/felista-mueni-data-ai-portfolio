@@ -2,234 +2,130 @@
 
 ### Data Analyst | Data Scientist | AI Services Specialist | Researcher | Academic & Technical Writer
 
-Welcome to my professional portfolio. I use **data, analytics, machine learning, AI, and research methodologies** to solve practical business and research problems and transform complex information into clear, actionable insights.
+I combine **data analytics, machine learning, AI evaluation, quantitative methods and research** to turn complex information into actionable, decision-ready results.
 
 📍 Nairobi, Kenya  
-💼 Available for remote freelance, consulting, research, analytics, AI and technical-writing projects.
-
----
-
-## 👩‍💻 About Me
-
-I am a Data Analyst, Data Scientist, AI Services Specialist, Researcher, and Academic/Technical Writer with experience across **banking, consulting, education, digital transformation, data science, AI-related projects, and research**.
-
-My work combines analytical thinking with strong research and communication skills. I enjoy working with complex datasets, evaluating models, investigating research questions, building dashboards, and turning technical information into clear and useful deliverables.
-
-I also mentor and teach data science, helping learners develop practical skills in Python, SQL, Power BI, Tableau, statistics, data visualization, and machine learning.
-
----
+💼 Available for remote freelance, consulting, analytics, AI evaluation, research and technical-writing projects.
 
 ## 🛠️ Core Skills
 
-### Data & Analytics
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Cleaning
-- Feature Engineering
-- Data Visualization
-- Business Intelligence
-- KPI Analysis
-- Data Storytelling
+**Data & Analytics:** Data Analysis, EDA, Statistics, Data Cleaning, Feature Engineering, KPI Analysis, Data Storytelling
 
-### Programming & Databases
-- Python
-- SQL
-- R
-- STATA
-- SAS
-- Excel
-- Google Sheets
+**Programming:** Python, SQL, R, STATA, SAS, Excel, Google Sheets
 
-### Business Intelligence & Visualization
-- Power BI
-- Tableau
-- Looker
-- Looker Studio
-- Matplotlib
-- Seaborn
-- Plotly
+**BI & Visualization:** Power BI, Tableau, Looker, Looker Studio, Matplotlib, Seaborn, Plotly
 
-### Machine Learning & AI
-- Machine Learning
-- Predictive Modelling
-- Classification
-- Regression
-- Time-Series Forecasting
-- Model Evaluation
-- AI Model Evaluation
-- Prompt Engineering
-- Data Annotation
-- NLP
+**ML & AI:** Machine Learning, Predictive Modelling, Classification, Regression, Forecasting, Model Evaluation, AI Evaluation, Prompt Engineering, Data Annotation, NLP
 
-### Research
-- Academic Research
-- Systematic Literature Review
-- Rayyan
-- Critical Appraisal
-- CASP
-- PRISMA
-- Research Screening
-- Evidence Synthesis
-- Academic Editing
-- Technical Writing
+**Research:** Systematic Literature Review, Rayyan, CASP, PRISMA, Critical Appraisal, Evidence Synthesis, Academic Editing, Technical Writing
 
-### Quantitative Finance
-- Financial Econometrics
-- Time-Series Analysis
-- Monte Carlo Simulation
-- VaR & CVaR
-- CAPM
-- PCA
-- Cointegration
-- Stochastic Modelling
-- Heston Model
+**Quantitative Finance:** Financial Econometrics, Monte Carlo, VaR, CVaR, CAPM, PCA, Cointegration, Stochastic Modelling, Heston Model
 
----
+## 📊 Featured Work
 
-# 📊 Featured Projects
-
-## 1. ABB Digital IMEA Growth Analytics
-
+### ABB Digital IMEA Growth Analytics
 **Business Intelligence | Forecasting | Power BI | Machine Learning**
 
-A business analytics project focused on supporting an IMEA revenue-growth initiative targeting an increase from approximately **USD 47M to USD 100M by 2026**.
+A professional/project case study supporting an IMEA growth initiative targeting approximately **USD 47M to USD 100M by 2026**. Work included historical orders, pipeline analysis, country clustering, forecasting experiments and Power BI dashboard design.
 
-### Work included
-- Historical sales analysis
-- Pipeline analysis
-- Country and market segmentation
-- Growth scenario analysis
-- Forecasting
-- ARIMA modelling
-- XGBoost
-- Random Forest
-- Power BI dashboard design
+> Confidential client data is not included.
 
-**Key skills:** Python, pandas, forecasting, machine learning, Power BI, business analytics.
+### RetailMart Kenya Analytics
+**Retail Analytics | BI | Visualization**
 
-> Professional/project work. Confidential client data is not included in this repository.
+An end-to-end retail analytics case study covering revenue, profitability, regional performance, product performance, customer segments and dashboard preparation.
 
----
+![RetailMart revenue by region](assets/retailmart_revenue_by_region.svg)
 
-## 2. RetailMart Kenya Analytics Capstone
+[View project](projects/02_retailmart/README.md) · [Notebook](notebooks/01_retailmart_eda_dashboard.ipynb)
 
-**Retail Analytics | Business Intelligence | Data Visualization**
-
-An end-to-end retail analytics project demonstrating how transaction-level data can be transformed into business insights.
-
-### Analysis includes
-- Revenue analysis
-- Profitability analysis
-- Regional performance
-- Product performance
-- Customer segmentation
-- Monthly sales trends
-- KPI development
-- Dashboard preparation
-
-**Tools:** Python, pandas, Excel, Power BI.
-
-[View project →](projects/02_retailmart/README.md)
-
----
-
-## 3. House Prices Predictive Modelling
-
+### House Prices Predictive Modelling
 **Machine Learning | XGBoost | Predictive Analytics**
 
-A supervised machine-learning project demonstrating a complete predictive modelling workflow.
+Complete predictive workflow using train/test validation, XGBoost, RMSE and R².
 
-### Workflow
-- Data preparation
-- Feature engineering
-- Train/test splitting
-- Model training
-- XGBoost
-- RMSE evaluation
-- R² evaluation
-- Actual vs predicted analysis
+![House prices actual vs predicted](assets/house_prices_actual_vs_predicted.svg)
 
-[View notebook →](notebooks/02_house_prices_xgboost.ipynb)
+[Notebook](notebooks/02_house_prices_xgboost.ipynb)
 
----
-
-## 4. NMES Classification & ROC-AUC
-
+### NMES Classification & ROC-AUC
 **Classification | Statistical Learning | Model Evaluation**
 
-A classification project demonstrating a complete ML pipeline and threshold-independent model evaluation.
+Classification pipeline demonstrating preprocessing, scaling, logistic regression, ROC analysis and ROC-AUC.
 
-### Techniques
-- Data preprocessing
-- Feature scaling
-- Logistic regression
-- Classification metrics
-- ROC curve
-- ROC-AUC
+![ROC curve](assets/nmes_roc_curve.svg)
 
-A previous NMES modelling exercise achieved approximately **0.769 ROC-AUC**.
+> A previous NMES modelling exercise achieved approximately **0.769 ROC-AUC**. The notebook in this repository uses synthetic data and is a separate demonstration.
 
-[View notebook →](notebooks/03_nmes_classification_roc_auc.ipynb)
+[Notebook](notebooks/03_nmes_classification_roc_auc.ipynb)
 
----
-
-## 5. Electricity Generation Forecasting
-
+### Electricity Generation Forecasting
 **Time Series | ARIMA | Forecasting**
 
-A practical forecasting workflow covering:
+Practical forecasting workflow covering time-series preparation, train/test splitting, ARIMA, forecast generation, MAE and visualization.
 
-- Time-series preparation
-- Trend analysis
-- Train/test splitting
-- ARIMA modelling
-- Forecast generation
-- MAE evaluation
-- Forecast visualization
+![Electricity forecast](assets/electricity_forecast.svg)
 
-[View notebook →](notebooks/04_electricity_arima_forecasting.ipynb)
+[Notebook](notebooks/04_electricity_arima_forecasting.ipynb)
 
----
-
-## 6. Quantitative Finance & Risk Analytics
-
+### Quantitative Finance & Risk Analytics
 **Financial Engineering | Econometrics | Risk Modelling**
 
-A collection of quantitative-finance work covering:
+Work covering Heston modelling, PCA, Johansen cointegration, fractional differencing, Kalman filtering, ARCH processes, VaR/CVaR, CAPM and Monte Carlo.
 
-- Heston stochastic volatility modelling
-- Principal Component Analysis
-- Johansen cointegration
-- Fractional differencing
-- Kalman filtering
-- ARCH processes
-- Value at Risk (VaR)
-- Conditional VaR (CVaR)
-- Monte Carlo simulation
-- CAPM
-- Portfolio risk analysis
+![Monte Carlo VaR](assets/monte_carlo_var.svg)
 
-[View project →](projects/07_quant_finance/README.md)
+![PCA explained variance](assets/pca_explained_variance.svg)
 
----
+[Risk notebook](notebooks/05_financial_risk_var_cvar_monte_carlo.ipynb) · [PCA notebook](notebooks/06_financial_pca.ipynb)
 
-# 🔬 Research Portfolio
+## 🤖 AI Services
 
-## 7. Systematic Literature Review — Rayyan
+### AI Model Evaluation
+I use structured rubrics to evaluate AI outputs for **relevance, factuality, instruction following, clarity, consistency and quality**.
 
-Research project investigating:
+![AI evaluation example](assets/ai_evaluation_quality_profile.svg)
 
-> Factors associated with pre-analytical errors in microbiology laboratory testing and the role of multidisciplinary team interventions.
+[Evaluation notebook](notebooks/08_ai_model_evaluation.ipynb)
 
-### Work included
-- Search-result management
-- Duplicate removal
-- Title/abstract screening
-- Inclusion/exclusion decisions
-- Rayyan screening
-- Literature organization
-- Full-text screening workflow
-- PRISMA-oriented documentation
+## 🔬 Research Portfolio
 
-[
+### Systematic Literature Review — Rayyan
+Research-support workflow covering search-result management, duplicate removal, title/abstract screening, eligibility decisions, labels/filters, full-text screening and PRISMA-oriented documentation for microbiology laboratory pre-analytical errors.
+
+[View case study](projects/05_systematic_review/README.md)
+
+### CASP Critical Appraisal — COVID-19 Case-Control Study
+Structured critical appraisal covering study design, participant selection, exposure measurement, confounding, validity, results and applicability.
+
+[View case study](projects/06_casp/README.md)
+
+### Research Paper Library Organization
+Client project involving organization, categorization, standardized naming and summarization of an approximately 40-paper research library.
+
+## 🧑‍🏫 Teaching & Mentoring
+
+I also mentor and teach practical data science across **Python, SQL, Excel, Power BI, Tableau, statistics, visualization and machine learning**, with a project-based approach.
+
+## 📁 Repository Structure
+
+```
+notebooks/       Reproducible Python/SQL demonstrations
+data/            Synthetic datasets for reproducibility
+projects/        Case studies and professional project summaries
+assets/          Portfolio charts and visual evidence
+EVIDENCE_MATRIX.md
+GITHUB_SETUP.md
+```
+
+## 🔐 Data & Ethics
+
+Professional/client projects are represented with **sanitized descriptions only**. Confidential client datasets, private research records and proprietary documents are not published.
+
+Synthetic data is explicitly identified as synthetic.
+
+## 📫 Work With Me
+
+**Data Analysis • Data Science • Power BI • Tableau • SQL • Python • Machine Learning • AI Evaluation • Prompt Engineering • Research • Systematic Literature Reviews • Critical Appraisal • Technical Writing • Academic Editing**
+
+> **Turning data, AI and research into clear, reliable, decision-ready results.**
