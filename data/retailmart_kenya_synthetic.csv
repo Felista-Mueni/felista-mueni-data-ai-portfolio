@@ -1,0 +1,9 @@
+Order_ID,Order_Date,Region,Category,Product,Customer_Segment,Quantity,Unit_Price,Revenue,Discount,Net_Revenue,Cost,Profit
+RM10001,2025-01-05,Nairobi,Electronics,Smartphone,Consumer,2,25000,50000,0.05,47500,33250,14250
+RM10002,2025-01-08,Central,Grocery,Cereal,Consumer,5,1200,6000,0.02,5880,4116,1764
+RM10003,2025-01-12,Coast,Home,Sofa,Corporate,1,45000,45000,0.10,40500,28350,12150
+RM10004,2025-02-02,Rift Valley,Fashion,Shoes,Consumer,3,8500,25500,0.08,23460,16422,7038
+RM10005,2025-02-14,Western,Beauty,Skincare,Small Business,4,5000,20000,0.03,19400,13580,5820
+RM10006,2025-02-21,Nairobi,Electronics,Laptop,Corporate,1,45000,45000,0.12,39600,27720,11880
+RM10007,2025-03-04,Eastern,Grocery,Cooking Oil,Consumer,6,2500,15000,0.04,14400,10080,4320
+RM10008,2025-03-18,Nairobi,Home,TV,Corporate,2,15000,30000,0.06,28200,19740,8460
