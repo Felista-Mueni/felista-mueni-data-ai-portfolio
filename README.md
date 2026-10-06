@@ -103,6 +103,32 @@ Structured critical appraisal covering study design, participant selection, expo
 ### Research Paper Library Organization
 Client project involving organization, categorization, standardized naming and summarization of an approximately 40-paper research library.
 
+## 🔎 Evidence Map
+
+### Professional & Business Analytics
+- [ABB Digital IMEA Growth Analytics](projects/01_abb_digital_imea/README.md)
+- [RetailMart Kenya Analytics](projects/02_retailmart/README.md)
+- [Power BI Dashboard Evidence](projects/12_power_bi_dashboard/README.md)
+- [Tableau Dashboard Evidence](projects/13_tableau_dashboard/README.md)
+- [SQL Business Analytics](projects/10_sql_analytics/README.md)
+
+### AI & Data Quality
+- [AI Model Evaluation](projects/09_ai_evaluation/README.md)
+- [Data Annotation Quality](notebooks/24_data_annotation_quality.ipynb)
+- [NLP Text Classification](notebooks/23_nlp_text_classification.ipynb)
+
+### Research & Writing
+- [Systematic Review Evidence Workflow](projects/11_research_workflow/README.md)
+- [CASP Critical Appraisal](projects/14_casp_critical_appraisal/README.md)
+- [Academic & Technical Editing](projects/15_academic_editing/README.md)
+- [Research Paper Library Organization](projects/17_research_paper_library/README.md)
+
+### Teaching & Mentoring
+- [Data Science Teaching & Technical Mentoring](projects/16_teaching_mentoring/README.md)
+
+### Technical Evidence
+The notebooks directory contains reproducible demonstrations spanning machine learning, forecasting, SQL, NLP, AI evaluation, quantitative finance, clustering, model explainability and statistical modelling.
+
 ## 🧑‍🏫 Teaching & Mentoring
 
 I also mentor and teach practical data science across **Python, SQL, Excel, Power BI, Tableau, statistics, visualization and machine learning**, with a project-based approach.
